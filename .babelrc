@@ -1,0 +1,5 @@
+{
+	"presets": ["@babel/preset-env"]
+}
+
+//  El preset env es muy popular porque adapta automáticamente tu código a los entornos de ejecución especificados.
